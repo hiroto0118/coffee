@@ -1,0 +1,1 @@
+"use strict";{let e=document.querySelectorAll('a[href^="#"]');for(let t=0;t<e.length;t++)e[t].addEventListener("click",l=>{l.preventDefault();let r=e[t].getAttribute("href"),o=document.getElementById(r.replace("#","")),n=o.getBoundingClientRect().top,c=window.pageYOffset,i=n+c;window.scrollTo({top:i,behavior:"smooth"})})}
