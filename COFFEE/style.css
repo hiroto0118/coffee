@@ -42,7 +42,7 @@ img {
     height: 100vh;
     background-size: cover;
     background-position: center;
-    background-image: url(images/mainvisual.jpg);
+    background-image: url(https://github.com/hiroto0118/coffee/blob/main/COFFEE/images/mainvisual.jpg?raw=true);
     position: relative;
     margin-bottom: 20px;
 }
