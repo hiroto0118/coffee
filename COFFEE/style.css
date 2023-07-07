@@ -134,7 +134,7 @@ img {
 }
 
 #about .about-img {
-    background-image: url(images/about.jpg);
+    background-image: url(https://raw.githubusercontent.com/hiroto0118/coffee/2df3c48535879fc58b113e5ff8d98b3408c802fc/COFFEE/images/about.jpg);
     position: relative;
     margin-bottom: 83px;
 }
